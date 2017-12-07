@@ -1,0 +1,9 @@
+package com.minkov.models;
+
+public enum SuperheroRelationshipType {
+  MORTAL_ENEMY, REGULAR_ENEMIES,
+  DO_NOT_LIKE_EACH_OTHER,
+  TEAMMATES, FRIENDS, ROMANTICALLY_INVOLVED,
+  INDIFFERENT,
+  NOT_RELATED_AT_ALL
+}
